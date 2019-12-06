@@ -1,0 +1,10 @@
+C:\Users\Nonon\source\repos\MBST_Lab_1\bin\Release\MBST_Lab_1.exe.config
+C:\Users\Nonon\source\repos\MBST_Lab_1\bin\Release\MBST_Lab_1.exe
+C:\Users\Nonon\source\repos\MBST_Lab_1\bin\Release\MBST_Lab_1.pdb
+C:\Users\Nonon\source\repos\MBST_Lab_1\obj\Release\MBST_Lab_1.csprojAssemblyReference.cache
+C:\Users\Nonon\source\repos\MBST_Lab_1\obj\Release\MBST_Lab_1.Form1.resources
+C:\Users\Nonon\source\repos\MBST_Lab_1\obj\Release\MBST_Lab_1.Properties.Resources.resources
+C:\Users\Nonon\source\repos\MBST_Lab_1\obj\Release\MBST_Lab_1.csproj.GenerateResource.cache
+C:\Users\Nonon\source\repos\MBST_Lab_1\obj\Release\MBST_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Nonon\source\repos\MBST_Lab_1\obj\Release\MBST_Lab_1.exe
+C:\Users\Nonon\source\repos\MBST_Lab_1\obj\Release\MBST_Lab_1.pdb
